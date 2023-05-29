@@ -4,7 +4,7 @@ Este projeto foi desenvolvido no curso **[PrograMaria Front-end #2](https://www.
 
 
 
-<p align="center">     <img width="650" src="https://github.com/PrimYA/MundoInvertido_Dev-week/blob/main/mundo-invertido.gif"> </p>
+<p align="center"><img width="650" src="" alt="capa do projeto"></p>
 
 
 
@@ -12,13 +12,13 @@ ______
 
 ## ⚓Contexto
 
-A página foi 
+Dicionário que lista todas as mulheres que fizeram e ainda fazem parte da história do Brasil e do mundo.
 
 ________
 
 ## 💻 Tecnologias
 
--  HTML
+- HTML
 - CSS
 - JavaScript
 
