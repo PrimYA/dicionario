@@ -66,7 +66,9 @@ function carregaDicionario() {
   }
 }
 
-carregaDicionario();
+carregaDicionario()
+
+
 
 // "Marielle Franco",
 // "Rosa Parks",
