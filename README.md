@@ -4,18 +4,6 @@ Este projeto foi desenvolvido no curso **[PrograMaria Front-end #2](https://www.
 
 
 
-
-
-<p align="center"><img width="650" src="" alt="capa do projeto"></p>
-
-
-
-
-
-## ⚓Contexto
-
-
-
 ________
 
 ## 💻 Tecnologias
@@ -26,7 +14,9 @@ ________
 
 ___
 
-## 🧩Melhorias
+## 🧩Melhorias 
+
+### Coming Soon..
 
 - Organizar os nomes em ordem alfabética
 - Incluir mais mulheres na lista
