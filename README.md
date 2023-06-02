@@ -16,7 +16,7 @@ ___
 
 ## 🧩Melhorias 
 
-### Coming Soon..
+<h3 style="color: purple">Coming Soon...</h3>
 
 - Organizar os nomes em ordem alfabética
 - Incluir mais mulheres na lista
