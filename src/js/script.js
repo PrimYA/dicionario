@@ -3,22 +3,6 @@ const content = document.getElementById("content");
 function carregaDicionario() {
   var biografias = {
     bio01: {
-      nome: "Marielle Franco",
-      imagem: "marielle-franco.png",
-      descricao:
-        "Marielle Francisco da Silva, conhecida como Marielle Franco, foi uma socióloga, feminista, militante dos direitos humanos e política brasileira. Filiada ao Partido Socialismo e Liberdade (PSOL), elegeu-se vereadora do Rio de Janeiro para a Legislatura 2017-2020, durante a eleição municipal de 2016, com a quinta maior votação. Crítica da intervenção federal no Rio de Janeiro e da Polícia Militar, denunciava constantemente abusos de autoridade por parte de policiais contra moradores de comunidades carentes. Em 14 de março de 2018, foi assassinada a tiros.",
-      citacao:
-        "Quantos mais vão precisar morrer para que essa guerra aos pobres acabe?",
-    },
-    bio02: {
-      nome: "Lélia Gonzalez",
-      imagem: "lelia-gonzalez.png",
-      descricao:
-        "Lélia Gonzalez foi uma intelectual, política, professora e antropóloga brasileira.Ajudou a fundar instituições como o Movimento Negro Unificado (MNU), o Instituto de Pesquisas das Culturas Negras (IPCN), o Coletivo de Mulheres Negras N'Zinga e o Olodum. Sua militância em defesa da mulher negra levou-a ao Conselho Nacional dos Direitos da Mulher (CNDM), no qual atuou de 1985 a 1989. Foi candidata a deputada federal pelo PT, elegendo-se primeira suplente. Nas eleições seguintes, em 1986, candidatou-se a deputada estadual pelo PDT, novamente elegendo-se suplente.",
-      citacao:
-        "A gente não nasce negro, a gente se torna negro. É uma conquista dura, cruel e que se desenvolve pela vida da gente afora.",
-    },
-    bio03: {
       nome: "Angela Davis",
       imagem: "angela-davis.png",
       descricao:
@@ -26,7 +10,15 @@ function carregaDicionario() {
       citacao:
         "Não aceito mais as coisas que não posso mudar, estou mudando as coisas que não posso aceitar.",
     },
-    bio04: {
+    bio02: {
+      nome: "Carolina de Jesus",
+      imagem: "carolina-de-jesus.png",
+      descricao:
+        "Carolina Maria de Jesus foi uma escritora brasileira, conhecida por seu livro Quarto de Despejo: Diário de uma Favelada publicado em 1960. Considerada uma das primeiras e mais importantes escritoras negras do Brasil. A autora viveu boa parte de sua vida na favela do Canindé, na zona norte de São Paulo, sustentando a si mesma e seus três filhos como catadora de papéis. Em 1958 tem seu diário publicado sob o nome Quarto de Despejo, com auxílio do jornalista Audálio Dantas. O livro fez um enorme sucesso e chegou a ser traduzido para quatorze línguas.",
+      citacao:
+        "Ah, comigo o mundo vai modificar-se. Não gosto do mundo como ele é.",
+    },
+    bio03: {
       nome: "Conceição Evaristo",
       imagem: "conceicao-evaristo.png",
       descricao:
@@ -34,13 +26,21 @@ function carregaDicionario() {
       citacao:
         "O importante não é ser o primeiro ou primeira, o importante é abrir caminhos.",
     },
-    bio05: {
-      nome: "Carolina de Jesus",
-      imagem: "carolina-de-jesus.png",
+    bio04: {
+      nome: "Lélia Gonzalez",
+      imagem: "lelia-gonzalez.png",
       descricao:
-        "Carolina Maria de Jesus foi uma escritora brasileira, conhecida por seu livro Quarto de Despejo: Diário de uma Favelada publicado em 1960. Considerada uma das primeiras e mais importantes escritoras negras do Brasil. A autora viveu boa parte de sua vida na favela do Canindé, na zona norte de São Paulo, sustentando a si mesma e seus três filhos como catadora de papéis. Em 1958 tem seu diário publicado sob o nome Quarto de Despejo, com auxílio do jornalista Audálio Dantas. O livro fez um enorme sucesso e chegou a ser traduzido para quatorze línguas.",
+        "Lélia Gonzalez foi uma intelectual, política, professora e antropóloga brasileira.Ajudou a fundar instituições como o Movimento Negro Unificado (MNU), o Instituto de Pesquisas das Culturas Negras (IPCN), o Coletivo de Mulheres Negras N'Zinga e o Olodum. Sua militância em defesa da mulher negra levou-a ao Conselho Nacional dos Direitos da Mulher (CNDM), no qual atuou de 1985 a 1989. Foi candidata a deputada federal pelo PT, elegendo-se primeira suplente. Nas eleições seguintes, em 1986, candidatou-se a deputada estadual pelo PDT, novamente elegendo-se suplente.",
       citacao:
-        "Ah, comigo o mundo vai modificar-se. Não gosto do mundo como ele é.",
+        "A gente não nasce negro, a gente se torna negro. É uma conquista dura, cruel e que se desenvolve pela vida da gente afora.",
+    },
+    bio05: {
+      nome: "Marielle Franco",
+      imagem: "marielle-franco.png",
+      descricao:
+        "Marielle Francisco da Silva, conhecida como Marielle Franco, foi uma socióloga, feminista, militante dos direitos humanos e política brasileira. Filiada ao Partido Socialismo e Liberdade (PSOL), elegeu-se vereadora do Rio de Janeiro para a Legislatura 2017-2020, durante a eleição municipal de 2016, com a quinta maior votação. Crítica da intervenção federal no Rio de Janeiro e da Polícia Militar, denunciava constantemente abusos de autoridade por parte de policiais contra moradores de comunidades carentes. Em 14 de março de 2018, foi assassinada a tiros.",
+      citacao:
+        "Quantos mais vão precisar morrer para que essa guerra aos pobres acabe?",
     },
     bio06: {
       nome: "Rosa Parks",
@@ -66,13 +66,11 @@ function carregaDicionario() {
   }
 }
 
-carregaDicionario()
+carregaDicionario();
 
-
-
-// "Marielle Franco",
-// "Rosa Parks",
-// "Angela Davis",
-// "Carolina de Jesus",
-// "Lélia Gonzalez",
-// "Conceição Evaristo",
+// 1"Angela Davis",
+// 2"Carolina de Jesus",
+// 3"Conceição Evaristo",
+// 4"Lélia Gonzalez",
+// 5"Marielle Franco",
+// 6"Rosa Parks",

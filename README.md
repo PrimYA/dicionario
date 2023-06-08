@@ -16,7 +16,7 @@ ___
 
 ## 🧩Melhorias 
 
-<h3 style="color: purple">Coming Soon...</h3>
+Coming Soon...
 
 - Organizar os nomes em ordem alfabética
 - Incluir mais mulheres na lista
@@ -25,6 +25,6 @@ _____
 
 ## 👁‍🗨 Mentor@s
 
-- **Aline Bezzoco** | Instrutora | [Linkedin](https://www.linkedin.com/in/bezzocoaline/)
-- **PrograMaria** | [Instagram](https://www.instagram.com/programaria/)
+- **Aline Bezzoco** | Instrutora | [LinkedIn](https://www.linkedin.com/in/bezzocoaline/)
+- **PrograMaria** | [Instagram](https://www.instagram.com/programaria/) | [LinkedIn](https://www.linkedin.com/company/programaria.org/)
 
