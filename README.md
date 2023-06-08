@@ -18,7 +18,6 @@ ___
 
 Coming Soon...
 
-- Organizar os nomes em ordem alfabética
 - Incluir mais mulheres na lista
 
 _____
